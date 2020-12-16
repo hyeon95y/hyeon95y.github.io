@@ -14,7 +14,7 @@ tags: Scrum and XP from the Trenches How we do Scrum, 스크럼, Data Science, P
 
 업데이트됨
 
-- [1. 들어가는 글]
+- [1. 들어가는 글](https://hyeon95y.github.io/productivity/2020/12/16/scrum-in-ml-project.html)
 
 업데이트 예정
 
