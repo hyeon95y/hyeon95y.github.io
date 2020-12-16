@@ -14,7 +14,7 @@ tags: Scrum, DataScience, ProjectManagement
 
 업데이트됨
 
-- [1. 들어가는 글](https://hyeon95y.github.io/productivity/2020/12/16/scrum-in-ml-project.html)
+- [1. 들어가는 글](https://hyeon95y.github.io/productivity/2020/12/17/scrum-1.html)
 
 업데이트 예정
 
