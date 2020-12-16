@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ML Project Mgmt.] 데이터 사이언스 프로젝트 관리
+title: "[ML Project Mgmt.] 데이터 사이언스 프로젝트 관리"
 subtitle: 스크럼을 통한 머신러닝 & 딥러닝 프로젝트 관리
 categories: Productivity
 tags: Scrum and XP from the Trenches How we do Scrum, 스크럼, Data Science, Project Management
