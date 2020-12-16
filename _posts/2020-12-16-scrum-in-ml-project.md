@@ -3,7 +3,7 @@ layout: post
 title: "[ML Project Mgmt.] 데이터 사이언스 프로젝트 관리"
 subtitle: 스크럼을 통한 머신러닝 & 딥러닝 프로젝트 관리
 categories: Productivity
-tags: Scrum, DataScience, ProjectManagement
+tags: Scrum, DataScience, ProjectManagement, Agile
 ---
 
 이 포스트는 크게 세가지 요소로 구성되어 있습니다
