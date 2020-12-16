@@ -26,12 +26,10 @@
 
 title: mlmeetsbiz
 email: hyeon95y@gmail.com
-author: GitHub User
-copyright: Copyright © 1970-2010
+author: hyeon95y
+copyright: Copyright © 1970-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  How machine learning & deep learning meets business and deliver values
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyeon95y.github.io" # the base hostname & protocol for your site, e.g. http://example.com
