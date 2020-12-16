@@ -115,7 +115,7 @@ yat:
 defaults:
   home:
     heading: "Machine Learning meets business"
-    subheading: "How machine learnig delivers value to the business"
+    subheading: "How machine learnig & deep learning deliver values to the business"
     banner: "/assets/images/banners/photo-1530893609608-32a9af3aa95c.jfif"
 
 # Pagination setting
