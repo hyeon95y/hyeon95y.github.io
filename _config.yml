@@ -29,7 +29,7 @@ email: hyeon95y@gmail.com
 author: hyeon95y
 copyright: Copyright © 1970-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  How machine learning & deep learning meets business and deliver values
+  How machine & deep learning meets business and deliver values
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyeon95y.github.io" # the base hostname & protocol for your site, e.g. http://example.com
