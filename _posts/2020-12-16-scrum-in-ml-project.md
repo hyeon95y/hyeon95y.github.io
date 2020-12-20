@@ -6,7 +6,7 @@ categories: Productivity
 tags: Scrum DataScience ProjectManagement Agile
 ---
 
-이 포스트는 크게 세가지 요소로 구성되어 있습니다
+이 시리즈는 크게 세가지 요소로 구성되어 있습니다
 
 - 스크럼 배우기 : '스크럼과XP' 요약
 - 데이터 사이언스(혹은 머신러닝) 프로젝트에 왜 스크럼이 적합하지 않은지 그 이유들과 대안
